@@ -3,3 +3,6 @@
 .vscode/
 chatbot/node_modules/
 chatbot/dist/
+
+# Local Netlify folder
+.netlify
