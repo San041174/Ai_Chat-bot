@@ -1,0 +1,5 @@
+.env
+.env.*
+.vscode/
+chatbot/node_modules/
+chatbot/dist/
